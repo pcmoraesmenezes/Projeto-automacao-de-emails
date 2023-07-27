@@ -1,0 +1,5 @@
+irei utilizar o selenium para tal projeto, na qual planejo conseguir acessar o gmail, entrar com as informações de usuario: login e senha, e mostrar na tela 
+os emails.
+Terei que utilizar o .env para não passar os meus dados para o repositorio quando o projeto estiver concluido
+modulos que serão usados.
+loadenv, selenium, time
